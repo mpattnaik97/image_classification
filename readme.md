@@ -11,4 +11,4 @@ Instructions to run the code.
  - In your terminal type "python googlenet.py" or "python vggnet.py" to run either of the model.
  - Once the training and testing is finished it will open up the accuracy and loss plots.
 
-As this was my class assignment, you'll find a details pdf report on implementation of the two models and their comparision.
+This repository also contains "Implementation and Analysis Report" which contains a detailed report on implementation of the models and a critical analysis of their performance on 2 hyper parameters namely, learning rate and activation function. Please have a look at the pdf, you might find it useful.
