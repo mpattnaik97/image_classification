@@ -2,7 +2,7 @@ Hi, welcome to my image classification project.
 
 I have implemented two models namely, GoogleNet and VGGNet, and compared their performance on the mnist fashion dataset. 
 
-Tensorflow version used - 1.13.1
+Tensorflow version used - 1.13.1, 
 numpy version used - 1.16
 
 Instructions to run the code. 
