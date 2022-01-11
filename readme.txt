@@ -10,3 +10,5 @@ Instructions to run the code.
  - Pull the repository
  - In your terminal type "python googlenet.py" or "python vggnet.py" to run either of the model.
  - Once the training and testing is finished it will open up the accuracy and loss plots.
+
+As this was my class assignment, you'll find a details pdf report on implementation of the two models and their comparision.
